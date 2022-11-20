@@ -1,9 +1,34 @@
-table img{
+table img {
     height: 20px;
     width: 25px;
+    margin-right: 5px;
+
+}
+
+table{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+th{
+    background-color:burlywood;
+}
+td,
+th {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.group-name{
+    background: linear-gradient(270deg, #9E0C36 0%, #1E010A 100%);
+    border: 1px solid;
     
 }
-td{
-    width: 11.11% ;
-    /* height: 15%; */
+
+.group-name h3{
+    font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+    color: wheat;
+    
 }
