@@ -1,1 +1,1 @@
-# FIFA-2022-League-Table
+# FIFA-2022-Point-Table
